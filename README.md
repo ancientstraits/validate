@@ -1,8 +1,8 @@
 <h1 align='center'><img src='https://i.ibb.co/BsqPmSN/ez-ratelimiter.png' alt='[package-name] logo'>
 
-[package-name]</h1>
+Ez Validator</h1>
 
-<h2 align='center'>The template for [package-name].</h2>
+<h2 align='center'>The ez-iest validator for nodejs.</h2>
 
 <h2 align='center'>
 
@@ -10,20 +10,20 @@
 
 # Why?
 
-Explain why this was created
+This validator attempts to keep it e-z, with no additional functions or dependencies.
 
 # Installing
 
 ```
-npm i [package-name]
+npm i ez-validator
 ```
 
 # Documentation
-**Documentation for the [package-name] can be found at https://ez-packages.github.io/ez-[package-name]/.**
+**Documentation for the [package-name] can be found at https://ez-packages.github.io/ez-validator/.**
 
 # Examples
 
-**Setup an instance of `[package-name]`:**
+**Setup an instance of `validator`:**
 
 ```ts
 import { format } from 'util';
